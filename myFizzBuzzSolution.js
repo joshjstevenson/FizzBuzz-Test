@@ -126,19 +126,3 @@ Fizz
 Fizz
 Buzz
 */
-
-/* OBSERVATIONS
-Observed reasons that make this a good test:
-
-1. It can be achieved by multiple solutions. I chose to create a function, named fizzbuzz, 
-using arrow function expression, a for loop and if else statement.
-
-2. It tests your understanding of loops, nesting, conditional statements, operators, 
-functions and logic; if written incorrectly, Fizz may override FizzBuzz if the condition for 
-Fizz is met first, resulting in no FizzBuzz outputs. FizzBuzz could also be defined with, 
-(i % 15 === 0), to remove some code.
-
-3. It also tests your general understanding of computer language and attention to detail. 
-The questions asks for you to print from 1-100, meaning you have to specify in your loop 1-101;
-as 0-100 will include 0 and skip 100.
-*/
